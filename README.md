@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Navneet Sharma
 
-🎓 **B.Tech Student – Artificial Intelligence & Machine Learning (2024–2028)**  
+ **B.Tech Student – Artificial Intelligence & Machine Learning (2024–2028)**  
 📍 **Sushila Devi Bansal College of Engineering, Indore (MP)**  
 
 Passionate about **Artificial Intelligence, Machine Learning, and Software Development**.  
